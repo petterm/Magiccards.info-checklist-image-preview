@@ -1,15 +1,22 @@
 // ==UserScript==
-// @name         Magiccards.info checklist mouseover images
+// @name         Magiccards.info checklist preview of images
 // @description  enter something useful
 
 // @namespace    http://magiccards.info/
-// @version      0.1
+// @version      1.0
 // @grant        none
+// @author       Petter
 
-// @author       Pox
+// @namespace    https://github.com/petterm/Magiccards.info-checklist-image-preview
+// @repository   https://github.com/petterm/Magiccards.info-checklist-image-preview.git
+// @license      MIT
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js
-
+//
 // @include      http://magiccards.info/*.html
+//
+// @updateURL    https://github.com/petterm/Magiccards.info-checklist-image-preview/blob/master/magiccards-preview.user.js
+// @downloadURL  https://github.com/petterm/Magiccards.info-checklist-image-preview/blob/master/magiccards-preview.user.js
+// @homepage     https://github.com/petterm/Magiccards.info-checklist-image-preview
 
 
 // ==/UserScript==
